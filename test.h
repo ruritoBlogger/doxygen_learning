@@ -3,5 +3,5 @@
 class TEST
 {
     public:
-        void test();
+        virtual void test();
 };
