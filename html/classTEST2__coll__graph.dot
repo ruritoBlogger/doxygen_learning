@@ -1,9 +1,0 @@
-digraph "TEST2"
-{
- // LATEX_PDF_SIZE
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  Node1 [label="{TEST2\n||+ test()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="TEST2クラス  派生クラスです  test関数をオーバーライドしています"];
-  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
-  Node2 [label="{TEST\n||+ test()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classTEST.html",tooltip="TESTクラス  基幹クラスです  test関数を持っています"];
-}

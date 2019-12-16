@@ -1,0 +1,5 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="メイン関数" alt="" coords="5,31,56,57"/>
+<area shape="rect" id="node2" href="$classTEST.html#a9c262bbf444d46f46238cc88eea0dc64" title="継承してもらう関数 &#160;詳しくはtest2.h" alt="" coords="107,5,194,32"/>
+<area shape="rect" id="node3" href="$classTEST2.html#a283667580611c1ab43efefa0d6f51d78" title="継承している関数" alt="" coords="104,56,197,83"/>
+</map>

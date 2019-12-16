@@ -1,0 +1,4 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title="TESTクラス &#160;基幹クラスです &#160;test関数を持っています" alt="" coords="5,5,69,83"/>
+<area shape="rect" id="node2" href="$classTEST2.html" title="TEST2クラス &#160;派生クラスです &#160;test関数をオーバーライドしています" alt="" coords="5,131,69,208"/>
+</map>
