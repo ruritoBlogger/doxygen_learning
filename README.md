@@ -1,2 +1,2 @@
 # doxygen_learning
-my practice about how to use doxygen and Makefile
+doxygenを用いてリファレンスをどうやって作るのかを色々試してみるリポジトリ
