@@ -1,8 +1,8 @@
 var indexSectionsWithContent =
 {
-  0: "dmt",
+  0: "dmrt",
   1: "t",
-  2: "t",
+  2: "rt",
   3: "mt",
   4: "d"
 };
@@ -18,10 +18,10 @@ var indexSectionNames =
 
 var indexSectionLabels =
 {
-  0: "All",
-  1: "Classes",
-  2: "Files",
-  3: "Functions",
-  4: "Pages"
+  0: "全て",
+  1: "クラス",
+  2: "ファイル",
+  3: "関数",
+  4: "ページ"
 };
 
